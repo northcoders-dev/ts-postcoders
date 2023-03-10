@@ -62,7 +62,7 @@ Reviewers will also clone your repo to check it works ok. They should only have 
 
 ✅ You should use version control correctly
 
-✅ The UI doesn’t need to be beautiful to look at, only functional, consistent and clear
+✅ The UI doesn’t need to be beautiful to look at, only functional, consistent and clear. You may alter the existing CSS if needed
 
 ✅ Ask yourself ‘how difficult would it be for other software engineers to pick up where you left off and continue coding?’
 
